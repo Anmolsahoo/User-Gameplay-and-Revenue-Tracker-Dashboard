@@ -2,7 +2,7 @@
 
 This project was assigned by the company with the main objective of calculating player loyalty points, identifying the top loyal players, distributing bonus money fairly, and providing meaningful insights for stakeholders. The task combines data processing using Python and interactive reporting using Power BI, ensuring both technical accuracy and business usability.
 
-<h1>Objective<h1>
+<h1>Objective</h1>
 
  The project focuses on creating a Loyalty Point System that evaluates player engagement and spending behavior. The company wants to:
 
@@ -14,7 +14,7 @@ This project was assigned by the company with the main objective of calculating 
 
  Provide dashboards and insights that can help management take better decisions regarding customer engagement, retention, and promotions.
 
-<h1>Dataset<h1>
+<h1>Dataset</h1>
 
  Three datasets were provided for this project:
 
@@ -26,7 +26,7 @@ This project was assigned by the company with the main objective of calculating 
 
  The datasets were first cleaned using Python: unnecessary values were dropped, missing data was filled, and columns were renamed for better readability. The Date   & Time column was converted into a proper datetime format, and from it, day, month, and time slots were extracted. These transformations helped in generating       deeper insights like peak engagement periods and inactive slots.
 
-<h1>Python Source File<h1>
+<h1>Python Source File</h1>
 
  The Python file (User-Gameplay-and-Revenue-Tracker Using Python.ipynb) was used for the following tasks:
 
@@ -42,7 +42,7 @@ This project was assigned by the company with the main objective of calculating 
 
  Python ensured that the data was properly structured and calculated before feeding into visualization tools.
 
-<h1>Power BI File<h1>
+<h1>Power BI File</h1>
 
  The Power BI file (User Gameplay and Revenue Tracker Dashboard.pbix) was used to present interactive insights from the processed dataset. The dashboards included:
 
@@ -59,7 +59,7 @@ This project was assigned by the company with the main objective of calculating 
  The Power BI dashboard turned the backend calculations into clear, business-friendly visuals that help management quickly spot trends and make data-driven decisions.
 
 
- <h1>Results<h1>
+ <h1>Results</h1>
 
   The analysis revealed several important insights:
 
@@ -71,6 +71,6 @@ This project was assigned by the company with the main objective of calculating 
 
   Deposit and loyalty behaviors were similar: most contributed small amounts, while a small number dominated totals.
 
-<h1>Conclusion<h1>
+<h1>Conclusion</h1>
 
  This project successfully integrated Python for data processing and Power BI for visualization to build a fair and effective loyalty points system. The results showed that most users        contribute little, while a small number of high-value customers drive most of the revenue and loyalty points. By recognizing and rewarding these loyal customers, the company can improve     retention and strengthen its business growth.
